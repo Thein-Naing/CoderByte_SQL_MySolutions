@@ -8,8 +8,13 @@
 
 ![image](https://github.com/Thein-Naing/CoderByte_SQL_MySolutions/assets/117463446/518a8e42-6f09-4b96-bfda-1e8839ef2ea1)
 
-`3.SQL Sort Ages`
+`[3]SQL Sort Ages`
 
 ![image](https://github.com/Thein-Naing/CoderByte_SQL_MySolutions/assets/117463446/7e2f0112-4e1c-4d4d-8636-2f9377a0e1c1)
+
+`[4]SQL Basic Sum`
+
+![image](https://github.com/Thein-Naing/CoderByte_SQL_MySolutions/assets/117463446/efa108b9-69c4-4426-a4ae-87125b3024cb)
+
 
 
