@@ -16,5 +16,10 @@
 
 ![image](https://github.com/Thein-Naing/CoderByte_SQL_MySolutions/assets/117463446/efa108b9-69c4-4426-a4ae-87125b3024cb)
 
+`[5]SQL Member Count`
+![image](https://github.com/Thein-Naing/CoderByte_SQL_MySolutions/assets/117463446/9a8c2a3b-15ac-4cf7-a848-8fdbbe38a777)
+
+
+
 
 
